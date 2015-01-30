@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" android:layout_margin="5dp">
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RPs of"
+                android:id="@+id/textView" android:layout_margin="5dp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/recoveryPointAgentNameTextView" android:layout_weight="0.19"
+                android:layout_margin="5dp" android:textStyle="bold"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:id="@+id/currentRecoveryPointPageTextView"
+                android:layout_margin="5dp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:id="@+id/recoveryPointsCountTextView" android:layout_margin="5dp"/>
+    </LinearLayout>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="First"
+                android:id="@+id/firstRecoveryPointPageButton" android:layout_gravity="center_horizontal|top" android:layout_weight="0.1"/>
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Prev"
+                android:id="@+id/prevRecoveryPointPageButton" android:layout_gravity="center_horizontal|top" android:layout_weight="0.1"/>
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Next"
+                android:id="@+id/nextRecoveryPointPageButton" android:layout_gravity="center_horizontal|top" android:layout_weight="0.1"/>
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Last"
+                android:id="@+id/lastRecoveryPointPageButton" android:layout_gravity="center_horizontal|top" android:layout_weight="0.1"/>
+    </LinearLayout>
+    <ExpandableListView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/recoveryPointListView" android:layout_gravity="left|center_vertical"/>
+</LinearLayout>

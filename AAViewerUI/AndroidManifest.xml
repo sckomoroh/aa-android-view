@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.apprecovery.AAViewerUI"
+          android:versionCode="1"
+          android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="9"/>
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <application android:label="@string/app_name" android:icon="@drawable/ic_launcher" android:theme="@android:style/Theme.Holo.Light">
+        <activity android:name="com.apprecovery.view.login.LoginActivity" android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.apprecovery.view.repositories.RepositoriesActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
+
+        <activity android:name="com.apprecovery.view.backgroundjobs.BackgroundJobsActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
+        <activity android:name="com.apprecovery.view.backgroundjobs.BackgroundJobDetailsActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
+        <activity android:name="com.apprecovery.view.events.EventsActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
+        <activity android:name="com.apprecovery.view.agents.AgentHomeActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
+        <activity android:name="com.apprecovery.view.agents.AgentsActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
+        <activity android:name="com.apprecovery.view.corehome.CoreHomeActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
+
+        <activity android:name="com.apprecovery.view.recoverypoints.RecoveryPointsActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
+        <activity android:name="com.apprecovery.view.recoverypoints.MailStoresActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
+        <activity android:name="com.apprecovery.view.recoverypoints.LegacyGroupActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
+        <activity android:name="com.apprecovery.view.recoverypoints.LegacyMailStoreActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
+        <activity android:name="com.apprecovery.view.recoverypoints.SqlInstancesActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
+    </application>
+</manifest>

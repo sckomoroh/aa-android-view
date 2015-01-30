@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" android:layout_gravity="left|center_vertical">
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hostname"
+                android:id="@+id/textViewHomeHostName" android:layout_marginTop="5dp" android:layout_marginBottom="5dp"
+                android:layout_marginLeft="5dp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="OS ver"
+                android:id="@+id/textViewHomeOsVer" android:layout_marginTop="5dp" android:layout_marginBottom="5dp"
+                android:layout_marginLeft="5dp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Arch"
+                android:id="@+id/textViewHomeArch" android:layout_marginTop="5dp" android:layout_marginBottom="5dp"
+                android:layout_marginLeft="5dp"/>
+    </LinearLayout>
+    <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Agents"
+            android:id="@+id/buttonHomeMachines" android:layout_gravity="left|center_vertical" android:layout_margin="5dp"/>
+    <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Replications"
+            android:id="@+id/buttonHomeReplication" android:layout_gravity="left|center_vertical" android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp" android:layout_marginBottom="5dp"/>
+    <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Virtual standby"
+            android:id="@+id/buttonHomeVirtualStanby" android:layout_gravity="left|center_vertical"
+            android:layout_marginRight="5dp" android:layout_marginBottom="5dp" android:layout_marginLeft="5dp"/>
+    <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Events"
+            android:id="@+id/buttonHomeEvents" android:layout_gravity="left|center_vertical"
+            android:layout_marginRight="5dp" android:layout_marginBottom="5dp" android:layout_marginLeft="5dp"/>
+    <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Jobs"
+            android:id="@+id/buttonHomeJobs" android:layout_marginLeft="5dp" android:layout_marginRight="5dp"
+            android:layout_marginBottom="5dp"/>
+    <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Repositories"
+            android:id="@+id/buttonHomeRepository" android:layout_marginRight="5dp"
+            android:layout_marginBottom="5dp" android:layout_marginLeft="5dp"/>
+</LinearLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Agent"
+                android:id="@+id/textView" android:layout_margin="5dp"/>
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="agnet host"
+                android:id="@+id/textViewAgentHomeHost" android:layout_margin="5dp" android:textStyle="bold"/>
+    </LinearLayout>
+    <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Recovery points"
+            android:id="@+id/buttonAgentHomeRP" android:layout_marginLeft="5dp" android:layout_marginRight="5dp"
+            android:layout_marginBottom="5dp"/>
+    <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Events"
+            android:id="@+id/buttonAgentHomeEvents" android:layout_marginLeft="5dp" android:layout_marginRight="5dp"
+            android:layout_marginBottom="5dp"/>
+    <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Configuration"
+            android:id="@+id/buttonAgentHomeConfig" android:layout_marginLeft="5dp" android:layout_marginRight="5dp"
+            android:layout_marginBottom="5dp"/>
+</LinearLayout>

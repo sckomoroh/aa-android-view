@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AAContracts/AAContracts.iml" filepath="$PROJECT_DIR$/AAContracts/AAContracts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AAManagement/AAManagement.iml" filepath="$PROJECT_DIR$/AAManagement/AAManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AAManagementTests/AAManagementTests.iml" filepath="$PROJECT_DIR$/AAManagementTests/AAManagementTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AAViewerUI/AAViewerUI.iml" filepath="$PROJECT_DIR$/AAViewerUI/AAViewerUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceCommunicator/ServiceCommunicator.iml" filepath="$PROJECT_DIR$/ServiceCommunicator/ServiceCommunicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XmlSerialization/XmlSerialization.iml" filepath="$PROJECT_DIR$/XmlSerialization/XmlSerialization.iml" />
+    </modules>
+  </component>
+</project>
+

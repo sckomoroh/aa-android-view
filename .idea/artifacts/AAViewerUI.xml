@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="apk" build-on-make="true" name="AAViewerUI">
+    <output-path>$PROJECT_DIR$/out/artifacts/AAViewerUI</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyAlias" value="Key store" />
+        <option name="keyPassword" value="MTIzYXNkUQ==" />
+        <option name="keyStorePassword" value="MTIzYXNkUQ==" />
+        <option name="keyStoreUrl" value="file://d:/key_store" />
+        <option name="proGuardCfgFiles">
+          <list>
+            <option value="file://%MODULE_SDK_HOME%/tools/proguard/proguard-android.txt" />
+          </list>
+        </option>
+        <option name="signingMode" value="RELEASE_SIGNED" />
+      </options>
+    </properties>
+    <root id="archive" name="AAViewerUI.apk">
+      <element id="android-final-package" facet="AAViewerUI/android/Android" />
+    </root>
+  </artifact>
+</component>
