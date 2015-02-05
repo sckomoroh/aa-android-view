@@ -10,6 +10,8 @@ import android.widget.Button;
 import android.widget.TextView;
 import com.apprecovery.AAViewerUI.R;
 import com.apprecovery.config.AACoreConfig;
+import com.apprecovery.export.AgentExportConfigurationCollection;
+import com.apprecovery.export.ExportManagement;
 import com.apprecovery.metadata.CoreSummaryMetadata;
 import com.apprecovery.metadata.MetadataManagement;
 import com.apprecovery.view.corehome.CoreHomeActivity;
@@ -115,6 +117,11 @@ public class LoginActivity
 
             // database check
             XmlDeserializer.addClass("com.apprecovery.databasecheck.CheckResult");
+
+            // export
+            XmlDeserializer.addClass("com.apprecovery.export.AgentExportConfiguration");
+            XmlDeserializer.addClass("com.apprecovery.export.AgentExportConfigurationCollection");
+            XmlDeserializer.addClass("com.apprecovery.export.VirtualMachineLocation");
         }
         catch (Exception ex)
         {

@@ -10,6 +10,7 @@ import com.apprecovery.AAViewerUI.R;
 import com.apprecovery.view.agents.AgentsActivity;
 import com.apprecovery.view.backgroundjobs.BackgroundJobsActivity;
 import com.apprecovery.view.events.EventsActivity;
+import com.apprecovery.view.export.ExportActivity;
 import com.apprecovery.view.login.LoginActivity;
 import com.apprecovery.view.repositories.RepositoriesActivity;
 
@@ -95,6 +96,9 @@ public class CoreHomeActivity extends Activity
             @Override
             public void onClick(View view)
             {
+                Intent intent = new Intent(CoreHomeActivity.this, ExportActivity.class);
+                intent.putExtra(EventsActivity.HOST_NAME_MESSAGE_ID, mCoreHostName);
+                startActivity(intent);
             }
         });
 

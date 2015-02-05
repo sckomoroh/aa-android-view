@@ -21,6 +21,7 @@
         <activity android:name="com.apprecovery.view.agents.AgentHomeActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
         <activity android:name="com.apprecovery.view.agents.AgentsActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
         <activity android:name="com.apprecovery.view.corehome.CoreHomeActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
+        <activity android:name="com.apprecovery.view.export.ExportActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
 
         <activity android:name="com.apprecovery.view.recoverypoints.RecoveryPointsActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>
         <activity android:name="com.apprecovery.view.recoverypoints.MailStoresActivity" android:label="@string/app_name" android:configChanges="orientation|keyboardHidden" android:theme="@android:style/Theme.Holo.Light"/>

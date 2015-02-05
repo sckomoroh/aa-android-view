@@ -1,6 +1,9 @@
 package com.apprecovery.AAViewerUI;
 
 import android.test.ActivityInstrumentationTestCase2;
+
+import com.apprecovery.export.AgentExportConfigurationCollection;
+import com.apprecovery.export.ExportManagement;
 import com.apprecovery.view.login.LoginActivity;
 import com.apprecovery.agents.AgentInfoSummaryCollection;
 import com.apprecovery.agents.AgentManagement;
@@ -28,8 +31,8 @@ public class MainActivityTest extends ActivityInstrumentationTestCase2<LoginActi
     {
         try
         {
-            AgentManagement am = new AgentManagement();
-            AgentInfoSummaryCollection result = am.getAgentInfoSummaries();
+            ExportManagement mgmt = new ExportManagement();
+            AgentExportConfigurationCollection result = mgmt.getAllAgentsExportConfiguration();
 
             int a = 0;
         }
