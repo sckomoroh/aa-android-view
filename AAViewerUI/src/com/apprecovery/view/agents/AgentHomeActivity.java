@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import com.apprecovery.AAViewerUI.R;
+import com.apprecovery.view.backgroundjobs.BackgroundJobsActivity;
 import com.apprecovery.view.corehome.CoreHomeActivity;
 import com.apprecovery.view.events.EventsActivity;
 import com.apprecovery.view.recoverypoints.RecoveryPointsActivity;
@@ -36,6 +37,7 @@ public class AgentHomeActivity extends Activity
 
         Button recoveryPointsButton = (Button)findViewById(R.id.buttonAgentHomeRP);
         Button agentEventsButton = (Button) findViewById(R.id.buttonAgentHomeEvents);
+        Button agentJobsButton = (Button)findViewById(R.id.buttonAgentHomeJobs);
 
         recoveryPointsButton.setOnClickListener(new View.OnClickListener()
         {
@@ -55,6 +57,18 @@ public class AgentHomeActivity extends Activity
             public void onClick(View view)
             {
                 Intent intent = new Intent(AgentHomeActivity.this, EventsActivity.class);
+                intent.putExtra(EventsActivity.HOST_NAME_MESSAGE_ID, mAgentDisplayName);
+                intent.putExtra(EventsActivity.AGENT_ID_MESSAGE_ID, mAgentID);
+                startActivity(intent);
+            }
+        });
+
+        agentJobsButton.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                Intent intent = new Intent(AgentHomeActivity.this, BackgroundJobsActivity.class);
                 intent.putExtra(EventsActivity.HOST_NAME_MESSAGE_ID, mAgentDisplayName);
                 intent.putExtra(EventsActivity.AGENT_ID_MESSAGE_ID, mAgentID);
                 startActivity(intent);

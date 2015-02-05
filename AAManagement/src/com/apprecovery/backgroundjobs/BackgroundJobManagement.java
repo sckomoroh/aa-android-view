@@ -32,7 +32,7 @@ public class BackgroundJobManagement extends BaseManagement
     }
 
     @ManagementMethod(urlTemplate = "jobs/paged/{jobsPerPage}/{page}", httpMethod = "PUT")
-    public BackgroundJobInfoLightCollection getCoreJobsByPage(Integer page, Integer jobsPerPage, BackgroundJobSearchParameters params) throws Exception
+    public BackgroundJobInfoLightCollection getJobsByPage(Integer page, Integer jobsPerPage, BackgroundJobSearchParameters params) throws Exception
     {
         Map<String, String> args = new HashMap<>();
         args.put("{jobsPerPage}", jobsPerPage.toString());
@@ -47,17 +47,5 @@ public class BackgroundJobManagement extends BaseManagement
         Map<String, String> args = new HashMap<>();
 
         return invoker.invokeManagementMethodPut(args, params);
-    }
-
-    @ManagementMethod(urlTemplate = "agents/{agentId}/jobs/paged?filter={filter}&max={max}&page={page}")
-    BackgroundJobInfoCollection GetJobsForAgentByPage(String agentId, String filter, Integer max, Integer page) throws Exception
-    {
-        Map<String, String> args = new HashMap<>();
-        args.put("{agentId}", agentId);
-        args.put("{filter}", filter);
-        args.put("{max}", max.toString());
-        args.put("{page}", page.toString());
-
-        return invoker.invokeManagementMethodGet(args);
     }
 }

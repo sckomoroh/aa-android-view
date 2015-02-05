@@ -52,7 +52,7 @@ public class RepositoriesActivity extends Activity
             try
             {
                 RepositoryManagement repositoryManagement = new RepositoryManagement();
-                result = repositoryManagement.GetRepositorySummaries();
+                result = repositoryManagement.getRepositorySummaries();
             } catch (Exception ex)
             {
                 ex.printStackTrace();

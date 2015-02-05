@@ -15,6 +15,8 @@ import android.widget.TextView;
 import com.apprecovery.AAViewerUI.R;
 import com.apprecovery.backgroundjobs.*;
 import com.apprecovery.view.backgroundjobs.adapter.BackgroundJobsAdapter;
+import com.apprecovery.view.corehome.CoreHomeActivity;
+import com.apprecovery.view.events.EventsActivity;
 
 import java.util.Date;
 
@@ -30,14 +32,33 @@ public class BackgroundJobsActivity extends Activity
     private int mCurrentPage = 1;
     private int mTotalPages = 0;
 
+    private String mAgentId = null;
+    private String mHostName = null;
+
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.background_jobs);
 
+        mAgentId = getIntent().getStringExtra(EventsActivity.AGENT_ID_MESSAGE_ID);
+        mHostName = getIntent().getStringExtra(CoreHomeActivity.HOST_NAME_ID_MESSAGE);
+
         currentPageTextView = (TextView)findViewById(R.id.textViewJobsCurPage);
         totalPagesTextView = (TextView)findViewById(R.id.textViewJobsLastPage);
+
+        TextView hostNameTextView = (TextView)findViewById(R.id.textViewJobsHostName);
+        TextView hostTypeTextView = (TextView)findViewById(R.id.textViewJobsType);
+
+        if (mAgentId == null)
+        {
+            hostTypeTextView.setText("core");
+        }
+        else
+        {
+            hostTypeTextView.setText("agent");
+        }
+        hostNameTextView.setText(mHostName);
 
         adapter = new BackgroundJobsAdapter(this);
 
@@ -178,11 +199,14 @@ public class BackgroundJobsActivity extends Activity
                 searchParams.setSummarySearchOptions("");
                 searchParams.setSummarySearchPattern("");
 
-                BackgroundJobManagement jobsManagement = new BackgroundJobManagement();
-                int jobsCount = jobsManagement.getJobsCount(searchParams);
-                mTotalPages = jobsCount / 10 + 1;
-
-                result = jobsManagement.getCoreJobsByPage(mCurrentPage, 10, searchParams);
+                if (mAgentId == null)
+                {
+                    result = retrieveCoreJobs(searchParams);
+                }
+                else
+                {
+                    result = retrieveAgentJobs(searchParams);
+                }
             }
             catch (Exception ex)
             {
@@ -190,6 +214,30 @@ public class BackgroundJobsActivity extends Activity
                 ex.printStackTrace();
                 exception = ex;
             }
+
+            return result;
+        }
+
+        private BackgroundJobInfoLightCollection retrieveCoreJobs(BackgroundJobSearchParameters searchParams) throws Exception
+        {
+            BackgroundJobManagement jobsManagement = new BackgroundJobManagement();
+            int jobsCount = jobsManagement.getJobsCount(searchParams);
+            mTotalPages = jobsCount / 10 + 1;
+
+            BackgroundJobInfoLightCollection result = jobsManagement.getJobsByPage(mCurrentPage, 10, searchParams);
+
+            return result;
+        }
+
+        private BackgroundJobInfoLightCollection retrieveAgentJobs(BackgroundJobSearchParameters searchParams) throws Exception
+        {
+            searchParams.getAgentIds().add(mAgentId);
+
+            BackgroundJobManagement jobsManagement = new BackgroundJobManagement();
+            int jobsCount = jobsManagement.getJobsCount(searchParams);
+            mTotalPages = jobsCount / 10 + 1;
+
+            BackgroundJobInfoLightCollection result = jobsManagement.getJobsByPage(mCurrentPage, 10, searchParams);
 
             return result;
         }

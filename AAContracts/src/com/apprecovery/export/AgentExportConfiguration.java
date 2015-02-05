@@ -28,25 +28,25 @@ public class AgentExportConfiguration
     }
 
     @ContractXmlMethod(elementName = "enabled")
-    public boolean isIsEnabled()
+    public boolean isEnabled()
     {
         return mIsEnabled;
     }
 
     @ContractXmlMethod(elementName = "enabled", isSetter = true)
-    public void setIsEnabled(boolean mIsEnabled)
+    public void setEnabled(boolean mIsEnabled)
     {
         this.mIsEnabled = mIsEnabled;
     }
 
     @ContractXmlMethod(elementName = "allowed")
-    public boolean isIsAllowed()
+    public boolean isAllowed()
     {
         return mIsAllowed;
     }
 
     @ContractXmlMethod(elementName = "allowed", isSetter = true)
-    public void setIsAllowed(boolean mIsAllowed)
+    public void setAllowed(boolean mIsAllowed)
     {
         this.mIsAllowed = mIsAllowed;
     }

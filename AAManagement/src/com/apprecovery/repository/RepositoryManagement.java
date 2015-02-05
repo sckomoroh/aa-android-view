@@ -20,7 +20,7 @@ public class RepositoryManagement extends BaseManagement
     }
 
     @ManagementMethod(urlTemplate = "repositorySummaries")
-    public RepositorySummaryInfoCollection GetRepositorySummaries() throws Exception
+    public RepositorySummaryInfoCollection getRepositorySummaries() throws Exception
     {
         return invoker.invokeManagementMethodGet(null);
     }

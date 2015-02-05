@@ -31,7 +31,7 @@ public class ExportAdapter extends BaseAdapter
 
         for(AgentExportConfiguration agentExport : data)
         {
-            if (agentExport.isIsAllowed())
+            if (agentExport.isAllowed())
             {
                 mExports.add(agentExport);
             }
@@ -71,7 +71,7 @@ public class ExportAdapter extends BaseAdapter
 
         ImageView stateImageView = (ImageView)view.findViewById(R.id.exportStateImageView);
 
-        if (export.isIsEnabled())
+        if (export.isEnabled())
         {
             stateImageView.setImageResource(R.drawable.green);
         }
