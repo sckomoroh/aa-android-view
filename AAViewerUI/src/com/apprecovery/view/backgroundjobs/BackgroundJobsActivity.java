@@ -31,6 +31,7 @@ public class BackgroundJobsActivity extends Activity
     private TextView totalPagesTextView;
     private int mCurrentPage = 1;
     private int mTotalPages = 0;
+    private static final int jobsPerPage = 25;
 
     private String mAgentId = null;
     private String mHostName = null;
@@ -222,9 +223,9 @@ public class BackgroundJobsActivity extends Activity
         {
             BackgroundJobManagement jobsManagement = new BackgroundJobManagement();
             int jobsCount = jobsManagement.getJobsCount(searchParams);
-            mTotalPages = jobsCount / 10 + 1;
+            mTotalPages = jobsCount / jobsPerPage + 1;
 
-            BackgroundJobInfoLightCollection result = jobsManagement.getJobsByPage(mCurrentPage, 10, searchParams);
+            BackgroundJobInfoLightCollection result = jobsManagement.getJobsByPage(mCurrentPage, jobsPerPage, searchParams);
 
             return result;
         }
@@ -235,9 +236,9 @@ public class BackgroundJobsActivity extends Activity
 
             BackgroundJobManagement jobsManagement = new BackgroundJobManagement();
             int jobsCount = jobsManagement.getJobsCount(searchParams);
-            mTotalPages = jobsCount / 10 + 1;
+            mTotalPages = jobsCount / jobsPerPage + 1;
 
-            BackgroundJobInfoLightCollection result = jobsManagement.getJobsByPage(mCurrentPage, 10, searchParams);
+            BackgroundJobInfoLightCollection result = jobsManagement.getJobsByPage(mCurrentPage, jobsPerPage, searchParams);
 
             return result;
         }

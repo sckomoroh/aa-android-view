@@ -28,39 +28,54 @@
                 android:id="@+id/textViewHomeArch" android:layout_marginTop="5dp" android:layout_marginBottom="5dp"
                 android:layout_marginLeft="5dp"/>
     </LinearLayout>
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
     <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="Agents"
+            android:text="@string/agents_button_str"
             android:id="@+id/buttonHomeMachines" android:layout_gravity="left|center_vertical" android:layout_margin="5dp"/>
     <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="Replications"
-            android:id="@+id/buttonHomeReplication" android:layout_gravity="left|center_vertical" android:layout_marginLeft="5dp"
+            android:text="@string/incoming_replication_button_str"
+            android:id="@+id/buttonIncomingHomeReplication" android:layout_gravity="left|center_vertical" android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp" android:layout_marginBottom="5dp"/>
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/outgoing_replication_button_str"
+        android:id="@+id/buttonOutgoingHomeReplication" android:layout_gravity="left|center_vertical" android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp" android:layout_marginBottom="5dp"/>
     <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="Virtual standby"
+            android:text="@string/virtual_standby_button_str"
             android:id="@+id/buttonHomeVirtualStanby" android:layout_gravity="left|center_vertical"
             android:layout_marginRight="5dp" android:layout_marginBottom="5dp" android:layout_marginLeft="5dp"/>
     <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="Events"
+            android:text="@string/events_button_str"
             android:id="@+id/buttonHomeEvents" android:layout_gravity="left|center_vertical"
             android:layout_marginRight="5dp" android:layout_marginBottom="5dp" android:layout_marginLeft="5dp"/>
     <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="Jobs"
+            android:text="@string/jobs_button_str"
             android:id="@+id/buttonHomeJobs" android:layout_marginLeft="5dp" android:layout_marginRight="5dp"
             android:layout_marginBottom="5dp"/>
     <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="Repositories"
+            android:text="@string/repositori_button_Str"
             android:id="@+id/buttonHomeRepository" android:layout_marginRight="5dp"
             android:layout_marginBottom="5dp" android:layout_marginLeft="5dp"/>
+        </LinearLayout>
+    </ScrollView>
 </LinearLayout>

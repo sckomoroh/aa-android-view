@@ -62,16 +62,16 @@ public class BackgroundChildJobsAdapter extends BaseAdapter
 
         ImageView statusImageView = (ImageView)view.findViewById(R.id.imageViewJobItemIcon);
         TextView summaryTextView = (TextView)view.findViewById(R.id.textViewJobItemSummary);
-        TextView startTimeTextView = (TextView)view.findViewById(R.id.textViewJobItemStart);
-        TextView endTimeTextView = (TextView)view.findViewById(R.id.textViewJobItemEnd);
+        //TextView startTimeTextView = (TextView)view.findViewById(R.id.textViewJobItemStart);
+        //TextView endTimeTextView = (TextView)view.findViewById(R.id.textViewJobItemEnd);
 
         DateFormat df = new SimpleDateFormat("MM/dd/yyyy HH:mm");
         String creationTime = df.format(job.getStartTime());
         String endTime = df.format(job.getEndTime());
 
         summaryTextView.setText(job.getSummary());
-        startTimeTextView.setText(creationTime);
-        endTimeTextView.setText(endTime);
+        //startTimeTextView.setText(creationTime);
+        //endTimeTextView.setText(endTime);
 
         switch(job.getJobStatus())
         {

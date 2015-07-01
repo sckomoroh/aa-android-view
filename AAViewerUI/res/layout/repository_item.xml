@@ -10,5 +10,6 @@
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="Medium Text"
-            android:id="@+id/textViewRepoItemName"/>
+            android:id="@+id/textViewRepoItemName"
+        android:layout_marginLeft="10dp" />
 </LinearLayout>

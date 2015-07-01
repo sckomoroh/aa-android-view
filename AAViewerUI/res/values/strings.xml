@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AAViewerUI</string>
+    <string name="agents_button_str">Agents</string>
+    <string name="incoming_replication_button_str">Incoming replication</string>
+    <string name="outgoing_replication_button_str">Outgoing replication</string>
+    <string name="virtual_standby_button_str">Virtual standby</string>
+    <string name="events_button_str">Events</string>
+    <string name="jobs_button_str">Jobs</string>
+    <string name="repositori_button_Str">Repositories</string>
+    <string name="recovery_points_button_str">Recovery points</string>
+    <string name="config_button_str">Configuration</string>
+    <string name="agents_of_str">Agents of</string>
+    <string name="job_summary_str">Small Text</string>
     <color name="error_color">#FF0000</color>
 </resources>

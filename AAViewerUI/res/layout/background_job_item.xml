@@ -8,29 +8,15 @@
     <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/imageViewJobItemIcon" android:src="@drawable/success_event" android:layout_margin="5dp"/>
-    <LinearLayout
-            android:orientation="vertical"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content">
-        <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
-                android:id="@+id/textViewJobItemSummary" android:layout_gravity="center_horizontal|left"
-                android:singleLine="true"/>
-        <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
-                android:id="@+id/textViewJobItemStart" android:layout_gravity="left" android:gravity="left"/>
-        <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Small Text"
-                android:id="@+id/textViewJobItemEnd" android:layout_gravity="left" android:gravity="right"/>
-    </LinearLayout>
+            android:id="@+id/imageViewJobItemIcon" android:src="@drawable/success_event" android:layout_margin="5dp"
+        android:layout_gravity="center_vertical" />
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/textViewJobItemSummary" android:layout_gravity="left|center_vertical"
+            android:singleLine="true"
+        android:textAlignment="center" />
+
 </LinearLayout>

@@ -45,7 +45,8 @@ public class CoreHomeActivity extends Activity
         Button buttonMachines = (Button)findViewById(R.id.buttonHomeMachines);
         Button buttonRepository = (Button)findViewById(R.id.buttonHomeRepository);
         Button buttonEvents = (Button)findViewById(R.id.buttonHomeEvents);
-        Button buttonReplications = (Button)findViewById(R.id.buttonHomeReplication);
+        Button buttonIncomingReplications = (Button)findViewById(R.id.buttonIncomingHomeReplication);
+        Button buttonOutgoingReplications = (Button)findViewById(R.id.buttonOutgoingHomeReplication);
         Button buttonVirtualStandby = (Button)findViewById(R.id.buttonHomeVirtualStanby);
         Button buttonBackgroundJobs = (Button)findViewById(R.id.buttonHomeJobs);
 
@@ -83,7 +84,15 @@ public class CoreHomeActivity extends Activity
             }
         });
 
-        buttonReplications.setOnClickListener(new View.OnClickListener()
+        buttonIncomingReplications.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View view)
+            {
+            }
+        });
+
+        buttonOutgoingReplications.setOnClickListener(new View.OnClickListener()
         {
             @Override
             public void onClick(View view)

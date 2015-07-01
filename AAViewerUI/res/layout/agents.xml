@@ -12,14 +12,13 @@
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Agents of"
+                android:text="@string/agents_of_str"
                 android:id="@+id/hostNameTextView"
                 android:layout_gravity="center|left" android:layout_margin="5dp"/>
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="agent"
-                android:id="@+id/textViewAgentsCoreName" android:layout_gravity="center"
+            android:id="@+id/textViewAgentsCoreName" android:layout_gravity="center"
                 android:layout_marginTop="5dp" android:layout_marginRight="5dp" android:layout_marginBottom="5dp"
                 android:textStyle="bold"/>
     </LinearLayout>

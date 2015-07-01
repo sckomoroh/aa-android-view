@@ -42,7 +42,8 @@ public class RepositoriesAdapter extends BaseExpandableListAdapter
     public int getChildrenCount(int index)
     {
         RepositorySummaryInfo repository = repositories.get(index);
-        return repository.getFiles().size();
+        int count = repository.getFiles().size() * 2;
+        return count;
     }
 
     @Override
@@ -116,10 +117,16 @@ public class RepositoriesAdapter extends BaseExpandableListAdapter
         view = inflater.inflate(R.layout.repository_item, null);
 
         RepositorySummaryInfo repo = repositories.get(groupIndex);
-        RepositoryFileInfo repoFileInfo = repo.getFiles().get(index);
+        RepositoryFileInfo repoFileInfo = repo.getFiles().get(index / 2);
 
         TextView fileName = (TextView)view.findViewById(R.id.textViewRepoItemName);
-        fileName.setText(repoFileInfo.getSpecification().getDataPath());
+
+        if (index % 2 == 0) {
+            fileName.setText(repoFileInfo.getSpecification().getDataPath());
+        }
+        else {
+            fileName.setText(repoFileInfo.getSpecification().getMetadataPath());
+        }
 
         return view;
     }

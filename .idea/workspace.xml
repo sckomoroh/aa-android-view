@@ -45,14 +45,55 @@
   </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_LOG_LEVEL" value="DEBUG" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/adapter/BackgroundJobsAdapter.java" line="22" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f0fa706-9c52-411e-a247-f2fe30bf68ca" name="Default" comment="" />
+    <list default="true" id="5f0fa706-9c52-411e-a247-f2fe30bf68ca" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAContracts/AAContracts.iml" afterPath="$PROJECT_DIR$/AAContracts/AAContracts.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAManagement/AAManagement.iml" afterPath="$PROJECT_DIR$/AAManagement/AAManagement.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAManagementTests/AAManagementTests.iml" afterPath="$PROJECT_DIR$/AAManagementTests/AAManagementTests.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAViewerUI/AAViewerUI.iml" afterPath="$PROJECT_DIR$/AAViewerUI/AAViewerUI.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/adapter/BackgroundChildJobsAdapter.java" afterPath="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/adapter/BackgroundChildJobsAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/BackgroundJobsActivity.java" afterPath="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/BackgroundJobsActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/adapter/BackgroundJobsAdapter.java" afterPath="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/adapter/BackgroundJobsAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAContracts/gen/com/example/AAContracts/BuildConfig.java" afterPath="$PROJECT_DIR$/AAContracts/gen/com/example/AAContracts/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAManagementTests/gen/com/apprecovery/AAViewerUI/tests/BuildConfig.java" afterPath="$PROJECT_DIR$/AAManagementTests/gen/com/apprecovery/AAViewerUI/tests/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAManagement/gen/com/example/AAManagement/BuildConfig.java" afterPath="$PROJECT_DIR$/AAManagement/gen/com/example/AAManagement/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAViewerUI/gen/com/apprecovery/AAViewerUI/BuildConfig.java" afterPath="$PROJECT_DIR$/AAViewerUI/gen/com/apprecovery/AAViewerUI/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ServiceCommunicator/gen/com/example/ServiceCommunicator/BuildConfig.java" afterPath="$PROJECT_DIR$/ServiceCommunicator/gen/com/example/ServiceCommunicator/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XmlSerialization/gen/com/example/XmlSerialization/BuildConfig.java" afterPath="$PROJECT_DIR$/XmlSerialization/gen/com/example/XmlSerialization/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/corehome/CoreHomeActivity.java" afterPath="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/corehome/CoreHomeActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/repositories/adapter/RepositoriesAdapter.java" afterPath="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/repositories/adapter/RepositoriesAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ServiceCommunicator/ServiceCommunicator.iml" afterPath="$PROJECT_DIR$/ServiceCommunicator/ServiceCommunicator.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XmlSerialization/XmlSerialization.iml" afterPath="$PROJECT_DIR$/XmlSerialization/XmlSerialization.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAViewerUI/res/layout/agent_home.xml" afterPath="$PROJECT_DIR$/AAViewerUI/res/layout/agent_home.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAViewerUI/res/layout/agent_item.xml" afterPath="$PROJECT_DIR$/AAViewerUI/res/layout/agent_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAViewerUI/res/layout/agents.xml" afterPath="$PROJECT_DIR$/AAViewerUI/res/layout/agents.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAViewerUI/res/layout/backgroun_job_details.xml" afterPath="$PROJECT_DIR$/AAViewerUI/res/layout/backgroun_job_details.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAViewerUI/res/layout/background_job_item.xml" afterPath="$PROJECT_DIR$/AAViewerUI/res/layout/background_job_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAViewerUI/res/layout/core_home.xml" afterPath="$PROJECT_DIR$/AAViewerUI/res/layout/core_home.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/jcifs_1_3_17.xml" afterPath="$PROJECT_DIR$/.idea/libraries/jcifs_1_3_17.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAContracts/project.properties" afterPath="$PROJECT_DIR$/AAContracts/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAManagement/project.properties" afterPath="$PROJECT_DIR$/AAManagement/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAManagementTests/project.properties" afterPath="$PROJECT_DIR$/AAManagementTests/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAViewerUI/project.properties" afterPath="$PROJECT_DIR$/AAViewerUI/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ServiceCommunicator/project.properties" afterPath="$PROJECT_DIR$/ServiceCommunicator/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XmlSerialization/project.properties" afterPath="$PROJECT_DIR$/XmlSerialization/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAViewerUI/res/layout/repository_item.xml" afterPath="$PROJECT_DIR$/AAViewerUI/res/layout/repository_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AAViewerUI/res/values/strings.xml" afterPath="$PROJECT_DIR$/AAViewerUI/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="AAViewer.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +103,6 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
   </component>
   <component name="DebuggerManager">
     <ui_properties converted="true" />
@@ -189,69 +227,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AgentHomeActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/agents/AgentHomeActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="732" max-vertical-offset="1190">
-              <caret line="72" column="78" selection-start-line="72" selection-start-column="78" selection-end-line="72" selection-end-column="78" />
-              <folding>
-                <element signature="e#1500#1953#0" expanded="true" />
-                <element signature="e#1942#1943#0" expanded="true" />
-                <element signature="e#2485#2926#0" expanded="true" />
-                <element signature="e#2915#2916#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AgentsActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/agents/AgentsActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="546" max-vertical-offset="1802">
-              <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="background_jobs.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AAViewerUI/res/layout/background_jobs.xml">
-          <provider editor-type-id="android-designer">
+      <file leaf-file-name="agents.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AAViewerUI/res/layout/agents.xml">
+          <provider selected="true" editor-type-id="android-designer">
             <state />
           </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.6" vertical-offset="0" max-vertical-offset="1326">
-              <caret line="20" column="49" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CoreHomeActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/corehome/CoreHomeActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1445">
-              <caret line="23" column="29" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BackgroundJobsActivity.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/BackgroundJobsActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60264903" vertical-offset="2974" max-vertical-offset="3536">
-              <caret line="234" column="0" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BackgroundJobManagement.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AAManagement/src/com/apprecovery/backgroundjobs/BackgroundJobManagement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="833">
-              <caret line="34" column="57" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="57" />
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -264,68 +247,54 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/XmlSerialization/src/com/serialization/XmlSerializator.java" />
-        <option value="$PROJECT_DIR$/XmlSerialization/src/com/serialization/ClassesStorage.java" />
-        <option value="$PROJECT_DIR$/ServiceCommunicator/src/com/communicator/Invoker.java" />
-        <option value="$PROJECT_DIR$/XmlSerialization/src/com/serialization/ContractXmlType.java" />
-        <option value="$PROJECT_DIR$/XmlSerialization/src/com/serialization/XmlSerializer.java" />
-        <option value="$PROJECT_DIR$/AAContracts/src/com/apprecovery/backgroundjobs/BackgroundJobInfoLightCollection.java" />
-        <option value="$PROJECT_DIR$/AAContracts/src/com/apprecovery/backgroundjobs/BackgroundJobInfoLight.java" />
-        <option value="$PROJECT_DIR$/XmlSerialization/src/com/serialization/XmlDeserializer.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/recoverypoints/adapter/RecoveryPointsAdapter.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/background_job_item.xml" />
-        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/adapter/BackgroundJobsAdapter.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/BackgrounJobDetailsActivity.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/adapter/BackgroundChildJobsAdapter.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/BackgroundJobDetailsActivity.java" />
-        <option value="$PROJECT_DIR$/AAContracts/src/com/apprecovery/backgroundjobs/BackgroundJobInfo.java" />
-        <option value="$PROJECT_DIR$/AAContracts/src/com/apprecovery/backgroundjobs/ServerError.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/core_home.xml" />
-        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/repository_item.xml" />
-        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/backgroun_job_details.xml" />
-        <option value="$PROJECT_DIR$/AAContracts/src/com/apprecovery/metadata/OperatingSystemFamily.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/login.xml" />
-        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/repository_group_item.xml" />
-        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/repositories/adapter/RepositoriesAdapter.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/repositories/RepositoriesActivity.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/repositories.xml" />
-        <option value="$PROJECT_DIR$/AAContracts/src/com/apprecovery/backgroundjobs/BackgroundJobType.java" />
-        <option value="$PROJECT_DIR$/AAContracts/src/com/apprecovery/backgroundjobs/BackgroundJobTypeCollection.java" />
-        <option value="$PROJECT_DIR$/AAContracts/src/com/apprecovery/backgroundjobs/BackgroundJobSearchParameters.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/virtual/adapter/VirtualAdapter.java" />
-        <option value="$PROJECT_DIR$/AAManagement/src/com/apprecovery/virtual/VirtualManagement.java" />
-        <option value="$PROJECT_DIR$/AAContracts/src/com/apprecovery/export/VirtualMachineLoaction.java" />
-        <option value="$PROJECT_DIR$/AAContracts/src/com/apprecovery/export/AgentExportConfigurationCollection.java" />
-        <option value="$PROJECT_DIR$/AAManagement/src/com/apprecovery/export/VirtualManagement.java" />
-        <option value="$PROJECT_DIR$/AAManagement/src/com/apprecovery/export/ExportManagement.java" />
-        <option value="$PROJECT_DIR$/AAManagementTests/src/com/apprecovery/AAViewerUI/MainActivityTest.java" />
-        <option value="$PROJECT_DIR$/AAContracts/src/com/apprecovery/export/VirtualMachineLocation.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/export/VirtualActivity.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/export/adapter/VirtualAdapter.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/export_item.xml" />
-        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/exports.xml" />
-        <option value="$PROJECT_DIR$/AAViewerUI/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/login/LoginActivity.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/export/ExportActivity.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/export/adapter/ExportAdapter.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/corehome/CoreHomeActivity.java" />
-        <option value="$PROJECT_DIR$/AAContracts/src/com/apprecovery/export/AgentExportConfiguration.java" />
-        <option value="$PROJECT_DIR$/AAManagement/src/com/apprecovery/repository/RepositoryManagement.java" />
-        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/agent_home.xml" />
-        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/agents/AgentHomeActivity.java" />
         <option value="$PROJECT_DIR$/AAManagement/src/com/apprecovery/backgroundjobs/BackgroundJobManagement.java" />
+        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/adapter/BackgroundJobsAdapter.java" />
+        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/adapter/BackgroundChildJobsAdapter.java" />
         <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/BackgroundJobsActivity.java" />
+        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/repository_item.xml" />
+        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/repositories/adapter/RepositoriesAdapter.java" />
+        <option value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/corehome/CoreHomeActivity.java" />
+        <option value="$PROJECT_DIR$/AAViewerUI/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/core_home.xml" />
+        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/agent_home.xml" />
+        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/agent_item.xml" />
+        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/agents.xml" />
+        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/backgroun_job_details.xml" />
+        <option value="$PROJECT_DIR$/AAViewerUI/res/layout/background_job_item.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1416" />
-    <option name="height" value="883" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -352,6 +321,9 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -387,26 +359,8 @@
               <option name="myItemId" value="view" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AAViewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AAViewerUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="corehome" />
+              <option name="myItemId" value="repositories" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -428,7 +382,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backgroundjobs" />
+              <option name="myItemId" value="repositories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -449,8 +407,40 @@
               <option name="myItemId" value="view" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="agents" />
+              <option name="myItemId" value="AAViewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AAViewerUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AAViewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AAViewerUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -474,20 +464,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AAManagement" />
+              <option name="myItemId" value="AAContracts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/AAViewerUI/src/com/apprecovery" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
@@ -495,7 +483,7 @@
     <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="E:/Libs/jcifs_1.3.18/jcifs-1.3.18.jar!/" />
+    <property name="last_opened_file_path" value="D:/libs/jcifs_1.3.18/jcifs-1.3.18.jar!/" />
     <property name="AndroidLayoutSelectedEditor" value="android-designer" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="DEBUGGABLE_DEVICE" value="015d3248bb33f214" />
@@ -512,49 +500,24 @@
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager2.WIDTH" value="316" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_One_API_18" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_21_x86" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteToolWindowManager.WIDTH" value="298" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.apprecovery.view.agents.adapter" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sckomoroh\IdeaProjects\AAViewer\ServiceCommunicator\src\com\communicator\ntlm" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.apprecovery" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.apprecovery.view.agents.adapter" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.AAViewerUI">
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -573,6 +536,10 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_SELECTION_ERROR" value="" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -594,9 +561,79 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_SELECTION_ERROR" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -623,20 +660,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="false" name="AAViewerUI" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="AAViewerUI" />
       <option name="ACTIVITY_CLASS" value="com.apprecovery.view.login.LoginActivity" />
@@ -655,6 +678,10 @@
       <option name="CLEAR_LOGCAT" value="true" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_SELECTION_ERROR" value="" />
       <RunnerSettings RunnerId="AndroidDebugRunner" />
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
@@ -678,6 +705,10 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_SELECTION_ERROR" value="" />
       <RunnerSettings RunnerId="AndroidDebugRunner" />
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
@@ -704,6 +735,7 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="5f0fa706-9c52-411e-a247-f2fe30bf68ca" name="Default" comment="" />
       <created>1368096289426</created>
+      <option name="number" value="Default" />
       <updated>1368096289426</updated>
     </task>
     <servers />
@@ -729,37 +761,38 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1416" height="883" extended-state="0" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49527666" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22310513" sideWeight="0.42626727" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49482164" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294621" sideWeight="0.46721312" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32870865" sideWeight="0.8031146" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42087543" sideWeight="0.4059524" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29804373" sideWeight="0.41503668" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2449089" sideWeight="0.6708861" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32793522" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294621" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24449877" sideWeight="0.6708861" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.49755502" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32681242" sideWeight="0.54706603" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32949308" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35357624" sideWeight="0.5940476" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294621" sideWeight="0.5327869" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29804373" sideWeight="0.5849633" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32870865" sideWeight="0.8031146" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24231333" sideWeight="0.57258064" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22188264" sideWeight="0.57258064" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3468286" sideWeight="0.5714286" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29689297" sideWeight="0.5714286" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3995657" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32659933" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -803,11 +836,6 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -817,207 +845,47 @@
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/agents/AgentHomeActivity.java</url>
-          <line>72</line>
+          <url>file://$PROJECT_DIR$/AAManagement/src/com/apprecovery/backgroundjobs/BackgroundJobManagement.java</url>
+          <line>46</line>
           <properties />
-          <option name="timeStamp" value="97" />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ServiceCommunicator/src/com/communicator/Invoker.java</url>
+          <line>137</line>
+          <properties />
+          <option name="timeStamp" value="103" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="99" />
+      <option name="time" value="108" />
     </breakpoint-manager>
+    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AAViewerUI/res/layout/repository_group_item.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.25" vertical-offset="48" max-vertical-offset="561">
-          <caret line="25" column="57" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/repositories/adapter/RepositoriesAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27433628" vertical-offset="848" max-vertical-offset="1751">
-          <caret line="91" column="26" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAViewerUI/res/layout/repositories.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5391791" vertical-offset="0" max-vertical-offset="646">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAViewerUI/res/layout/agents.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5074627" vertical-offset="0" max-vertical-offset="595">
-          <caret line="16" column="80" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/repositories/RepositoriesActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3180272" vertical-offset="153" max-vertical-offset="1513">
-          <caret line="30" column="89" selection-start-line="30" selection-start-column="89" selection-end-line="30" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/metadata/ProcessorArchitecture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <caret line="15" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/backgroundjobs/BackgroundJobType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/backgroundjobs/BackgroundJobInfoLightCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/exchange/LegacyStorageGroupCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/recoverypoints/RecoveryPointSummaryInfoCollection2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/backgroundjobs/BackgroundJobTypeCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XmlSerialization/src/com/serialization/XmlDeserializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4097" max-vertical-offset="6460">
-          <caret line="252" column="0" selection-start-line="252" selection-start-column="0" selection-end-line="252" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/recoverypoints/RecoveryPointSummaryInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.38262478" vertical-offset="717" max-vertical-offset="1258">
-          <caret line="39" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/recoverypoints/RecoveryPointSummaryInfoCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3770795" vertical-offset="0" max-vertical-offset="541">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/exchange/LegacyMailStoreCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3770795" vertical-offset="0" max-vertical-offset="646">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/events/EventSummariesCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3770795" vertical-offset="0" max-vertical-offset="541">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/backgroundjobs/BackgroundJobSearchParameters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1564">
-          <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ServiceCommunicator/src/com/communicator/Invoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2510" max-vertical-offset="5168">
-          <caret line="191" column="0" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XmlSerialization/src/com/serialization/XmlSerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1214" max-vertical-offset="2482">
-          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAContracts/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16966067" vertical-offset="0" max-vertical-offset="501">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/BackgroundJobDetailsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="3094">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/agents/AgentInfoSummary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="239" max-vertical-offset="1173">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/agents/AgentInfoSummaryCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="31" selection-start-line="16" selection-start-column="8" selection-end-line="17" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAManagementTests/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+        <state vertical-scroll-proportion="0.0">
           <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAManagementTests/src/com/apprecovery/AAViewerUI/MainActivityTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+        <state vertical-scroll-proportion="0.0">
           <caret line="34" column="46" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="46" />
           <folding />
         </state>
@@ -1025,11 +893,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/export/AgentExportConfigurationCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="47" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1038,7 +903,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.08" vertical-offset="0" max-vertical-offset="646">
+        <state vertical-scroll-proportion="-21.08">
           <caret line="31" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
@@ -1049,7 +914,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.6" vertical-offset="204" max-vertical-offset="748">
+        <state vertical-scroll-proportion="-13.6">
           <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
           <folding />
         </state>
@@ -1060,7 +925,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67799115" vertical-offset="0" max-vertical-offset="677">
+        <state vertical-scroll-proportion="0.67799115">
           <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
           <folding />
         </state>
@@ -1071,23 +936,15 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8493353" vertical-offset="649" max-vertical-offset="1326">
+        <state vertical-scroll-proportion="0.8493353">
           <caret line="72" column="15" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/events/EventsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.19020979" vertical-offset="357" max-vertical-offset="2873">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAViewerUI/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5569801" vertical-offset="0" max-vertical-offset="702">
+        <state vertical-scroll-proportion="0.5569801">
           <caret line="23" column="74" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
           <folding>
             <element signature="e#382#400#0" expanded="true" />
@@ -1111,167 +968,358 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/events/adapter/EventsAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8097902" vertical-offset="900" max-vertical-offset="1615">
+        <state vertical-scroll-proportion="0.8097902">
           <caret line="87" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/login/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1733" max-vertical-offset="2958">
+        <state vertical-scroll-proportion="0.0">
           <caret line="152" column="17" selection-start-line="152" selection-start-column="17" selection-end-line="152" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/export/ExportActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1717">
+        <state vertical-scroll-proportion="0.0">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/export/adapter/ExportAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7622378" vertical-offset="832" max-vertical-offset="1547">
+        <state vertical-scroll-proportion="0.7622378">
           <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/export/VirtualMachineLocation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+        <state vertical-scroll-proportion="0.0">
           <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/export/AgentExportConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66713285" vertical-offset="135" max-vertical-offset="850">
+        <state vertical-scroll-proportion="0.66713285">
           <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAManagement/src/com/apprecovery/agents/AgentManagement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+        <state vertical-scroll-proportion="0.0">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAManagement/src/com/apprecovery/events/EventsManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="935">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAManagement/src/com/apprecovery/export/ExportManagement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+        <state vertical-scroll-proportion="0.0">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAManagement/src/com/apprecovery/metadata/MetadataManagement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+        <state vertical-scroll-proportion="0.0">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAManagement/src/com/apprecovery/recoverypoints/RecoveryPointsManagement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAManagement/src/com/apprecovery/repository/RepositoryManagement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23776224" vertical-offset="0" max-vertical-offset="715">
+        <state vertical-scroll-proportion="0.23776224">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAViewerUI/res/layout/agent_home.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8028985" vertical-offset="92" max-vertical-offset="884">
-          <caret line="38" column="44" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/corehome/CoreHomeActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1445">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AAViewerUI/res/layout/background_jobs.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.6" vertical-offset="0" max-vertical-offset="1326">
-          <caret line="20" column="49" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/agents/AgentsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="546" max-vertical-offset="1802">
+        <state vertical-scroll-proportion="-0.116838485">
           <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/events/EventsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/agents/AgentHomeActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="732" max-vertical-offset="1190">
-          <caret line="72" column="78" selection-start-line="72" selection-start-column="78" selection-end-line="72" selection-end-column="78" />
-          <folding>
-            <element signature="e#1500#1953#0" expanded="true" />
-            <element signature="e#1942#1943#0" expanded="true" />
-            <element signature="e#2485#2926#0" expanded="true" />
-            <element signature="e#2915#2916#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAManagement/src/com/apprecovery/events/EventsManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/backgroundjobs/AgentIdsCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16171224">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/android/adt-bundle-windows-x86_64-20131030/sdk/sources/android-19/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="236" column="0" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/android/adt-bundle-windows-x86_64-20131030/sdk/sources/android-19/android/os/AsyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9388889">
+          <caret line="287" column="0" selection-start-line="287" selection-start-column="0" selection-end-line="287" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XmlSerialization/src/com/serialization/XmlSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAManagement/src/com/apprecovery/backgroundjobs/BackgroundJobManagement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="833">
-          <caret line="34" column="57" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceCommunicator/src/com/communicator/Invoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18073721">
+          <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/backgroundjobs/BackgroundJobSearchParameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20214032">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/adapter/BackgroundChildJobsAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.83161515">
+          <caret line="73" column="10" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/adapter/BackgroundJobsAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4226804">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/backgroundjobs/BackgroundJobsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60264903" vertical-offset="2974" max-vertical-offset="3536">
-          <caret line="234" column="0" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.35051546">
+          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAViewerUI/res/layout/repository_item.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAViewerUI/res/layout/repository_group_item.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/repository/RepositorySpecification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/repository/RepositorySummaryInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
+          <folding>
+            <element signature="e#2423#2424#0" expanded="false" />
+            <element signature="e#2451#2452#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/repository/RepositoryFileInfoCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/repository/RepositoryFileInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAContracts/src/com/apprecovery/repository/RepositoryFileSpecification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/corehome/CoreHomeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+          <folding>
+            <element signature="e#2247#2617#0" expanded="true" />
+            <element signature="e#2616#2617#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAViewerUI/src/com/apprecovery/view/repositories/adapter/RepositoriesAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding>
+            <element signature="e#3993#3994#0" expanded="true" />
+            <element signature="e#4021#4022#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAViewerUI/res/layout/core_home.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="61" selection-start-line="51" selection-start-column="61" selection-end-line="51" selection-end-column="61" />
+          <folding>
+            <element signature="e#1872#1899#0" expanded="true" />
+            <element signature="e#2158#2199#0" expanded="true" />
+            <element signature="e#2926#2962#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAViewerUI/res/layout/agent_home.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="44" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAViewerUI/res/layout/agent_item.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAViewerUI/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21364452">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAViewerUI/res/layout/background_job_item.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAViewerUI/res/layout/background_jobs.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAViewerUI/res/layout/backgroun_job_details.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AAViewerUI/res/layout/agents.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1318,7 +1366,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>Android API 21 Platform</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1330,7 +1378,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>AAManagementTests</last-edited>
+          <last-edited>AAViewerUI</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1355,4 +1403,3 @@
     </states>
   </component>
 </project>
-
